@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/FavNote_basic/static/css/main.d1296072.chunk.css",
-    "main.js": "/FavNote_basic/static/js/main.2f4a6e5c.chunk.js",
-    "main.js.map": "/FavNote_basic/static/js/main.2f4a6e5c.chunk.js.map",
-    "runtime-main.js": "/FavNote_basic/static/js/runtime-main.7d89bcde.js",
-    "runtime-main.js.map": "/FavNote_basic/static/js/runtime-main.7d89bcde.js.map",
-    "static/js/2.de2c5d93.chunk.js": "/FavNote_basic/static/js/2.de2c5d93.chunk.js",
-    "static/js/2.de2c5d93.chunk.js.map": "/FavNote_basic/static/js/2.de2c5d93.chunk.js.map",
-    "index.html": "/FavNote_basic/index.html",
-    "precache-manifest.2edca9b34f222065fbc6c252657f7593.js": "/FavNote_basic/precache-manifest.2edca9b34f222065fbc6c252657f7593.js",
-    "service-worker.js": "/FavNote_basic/service-worker.js",
-    "static/css/main.d1296072.chunk.css.map": "/FavNote_basic/static/css/main.d1296072.chunk.css.map",
-    "static/js/2.de2c5d93.chunk.js.LICENSE.txt": "/FavNote_basic/static/js/2.de2c5d93.chunk.js.LICENSE.txt",
-    "static/media/logo.png": "/FavNote_basic/static/media/logo.c00fceda.png"
+    "main.css": "/Forgetmenot/static/css/main.d1296072.chunk.css",
+    "main.js": "/Forgetmenot/static/js/main.069c65ae.chunk.js",
+    "main.js.map": "/Forgetmenot/static/js/main.069c65ae.chunk.js.map",
+    "runtime-main.js": "/Forgetmenot/static/js/runtime-main.81fd88ef.js",
+    "runtime-main.js.map": "/Forgetmenot/static/js/runtime-main.81fd88ef.js.map",
+    "static/js/2.07e54ebc.chunk.js": "/Forgetmenot/static/js/2.07e54ebc.chunk.js",
+    "static/js/2.07e54ebc.chunk.js.map": "/Forgetmenot/static/js/2.07e54ebc.chunk.js.map",
+    "index.html": "/Forgetmenot/index.html",
+    "precache-manifest.1bfcf47f0ca90c2ef13634ea546350b0.js": "/Forgetmenot/precache-manifest.1bfcf47f0ca90c2ef13634ea546350b0.js",
+    "service-worker.js": "/Forgetmenot/service-worker.js",
+    "static/css/main.d1296072.chunk.css.map": "/Forgetmenot/static/css/main.d1296072.chunk.css.map",
+    "static/js/2.07e54ebc.chunk.js.LICENSE.txt": "/Forgetmenot/static/js/2.07e54ebc.chunk.js.LICENSE.txt",
+    "static/media/logo.png": "/Forgetmenot/static/media/logo.c00fceda.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.7d89bcde.js",
-    "static/js/2.de2c5d93.chunk.js",
+    "static/js/runtime-main.81fd88ef.js",
+    "static/js/2.07e54ebc.chunk.js",
     "static/css/main.d1296072.chunk.css",
-    "static/js/main.2f4a6e5c.chunk.js"
+    "static/js/main.069c65ae.chunk.js"
   ]
 }
