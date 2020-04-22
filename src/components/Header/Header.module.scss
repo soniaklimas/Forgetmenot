@@ -1,0 +1,20 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 120px 1fr 120px;
+  align-items: center;
+  padding: 30px 0px;
+}
+
+img {
+  width: 120px;
+}
+
+@media (max-width: 576px) {
+  .wrapper {
+    grid-template-columns: 70px 1fr 70px;
+    padding: 10px 10px;
+  }
+  img {
+    width: 70px;
+  }
+}
